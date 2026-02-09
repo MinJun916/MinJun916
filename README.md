@@ -1,69 +1,91 @@
 <div align="center">
 
-# MinJun
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=180&section=header&text=MinJun&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" style="width:100%" />
 
-**개발자 · 문제를 해결하는 것을 좋아합니다**
+  <p><strong>개발자 · 문제를 해결하는 것을 좋아합니다</strong></p>
 
 </div>
 
----
+<hr />
 
-## Hello
+<h2>Tech Stack</h2>
 
-안녕하세요. MinJun입니다.  
-[한 줄 소개를 여기에 작성하세요.]
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
----
+<hr />
 
-## Tech Stack
+<h2>Hello</h2>
 
-**Language**  
-`JavaScript` `TypeScript` `Python`
+<p>
+  안녕하세요. MinJun입니다.<br />
+  [한 줄 소개를 여기에 작성하세요.]
+</p>
 
-**Frontend**  
-`React` `Next.js` `HTML` `CSS`
+<hr />
 
-**Backend**  
-`Node.js` `Express`
+<h2>Career</h2>
 
-**Tools**  
-`Git` `GitHub` `VS Code`
+<table>
+  <thead>
+    <tr>
+      <th align="left">기간</th>
+      <th align="left">내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>20XX.XX ~</td>
+      <td>[회사/프로젝트명] — [역할/포지션]</td>
+    </tr>
+    <tr>
+      <td>2025.07 ~ 2026.01</td>
+      <td><strong>코드잇 스프린트</strong> — 풀스택 트랙 8기 (수료)</td>
+    </tr>
+  </tbody>
+</table>
 
-> 위 기술 스택은 예시입니다. 실제 사용하시는 기술로 수정해 주세요.
+<hr />
 
----
+<h2>Strengths</h2>
 
-## Career
+<ul>
+  <li><strong>강점 1</strong> — 간단한 설명</li>
+  <li><strong>강점 2</strong> — 간단한 설명</li>
+  <li><strong>강점 3</strong> — 간단한 설명</li>
+</ul>
 
-| 기간              | 내용                              |
-| ----------------- | --------------------------------- |
-| 20XX.XX ~         | [회사/프로젝트명] — [역할/포지션] |
-| 20XX.XX ~ 20XX.XX | [회사/프로젝트명] — [역할/포지션] |
+<hr />
 
----
+<h2>Portfolio</h2>
 
-## Strengths
+<p>🔗 <a href="https://your-portfolio-url.com">포트폴리오 링크</a></p>
 
-- **강점 1** — 간단한 설명
-- **강점 2** — 간단한 설명
-- **강점 3** — 간단한 설명
+<hr />
 
----
+<h2>Contact</h2>
 
-## Portfolio
+<ul>
+  <li><strong>Email</strong> — your.email@example.com</li>
+  <li><strong>Blog</strong> — <a href="https://">블로그 링크</a></li>
+  <li><strong>LinkedIn</strong> — <a href="https://">LinkedIn 프로필</a></li>
+</ul>
 
-🔗 [포트폴리오 링크](https://your-portfolio-url.com)
-
----
-
-## Contact
-
-- **Email** — your.email@example.com
-
----
+<hr />
 
 <div align="center">
 
-**© 2026 MinJun Shin.** All rights reserved.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:111827&height=130&section=footer" alt="footer" style="width:100%" />
+
+  <p><strong>© 2026 MinJun Shin.</strong> All rights reserved.</p>
 
 </div>
