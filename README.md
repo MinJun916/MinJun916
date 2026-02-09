@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=180&section=header&text=MinJun&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" style="width:100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=180&section=header&text=MinJun%20Shin&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" style="width:100%" />
 
-  <p><strong>개발자 · 문제를 해결하는 것을 좋아합니다</strong></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pretendard&duration=3000&pause=1000&color=5267F7&width=435&lines=End-to-End%2C+Full-stack+Developer" alt="Typing SVG" /></a>
 
 </div>
 
