@@ -106,7 +106,7 @@
 
 <h2>Portfolio</h2>
 
-<p>🔗 <a href="https://portfolio-six-bice-59.vercel.app/">포트폴리오 링크</a></p>
+<p>🔗 <a href="https://portfolio-six-bice-59.vercel.app/" target="_blank" rel="noopener noreferrer">포트폴리오 링크</a></p>
 
 <hr />
 
