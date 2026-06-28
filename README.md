@@ -48,6 +48,15 @@
 
 <hr />
 
+<h2>GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MinJun916&show_icons=true&hide_border=true&bg_color=111827&title_color=ffffff&icon_color=5267F7&text_color=E5E7EB&ring_color=2563EB&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinJun916&layout=compact&hide_border=true&bg_color=111827&title_color=ffffff&text_color=E5E7EB&langs_count=8" alt="Top Languages" height="165" />
+</div>
+
+<hr />
+
 <h2>Career</h2>
 
 <table>
