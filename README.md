@@ -14,15 +14,68 @@
 
 ## Tech Stack
 
-| 분야 | 기술 |
-| :--- | :--- |
-| **Languages** | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="" width="22" height="22" /> TypeScript &nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="" width="22" height="22" /> JavaScript &nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Light.svg" alt="" width="22" height="22" /> Java &nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Light.svg" alt="" width="22" height="22" /> Python |
-| **Frontend** | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Light.svg" alt="" width="22" height="22" /> React &nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Light.svg" alt="" width="22" height="22" /> Next.js &nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Light.svg" alt="" width="22" height="22" /> Tailwind CSS<br>HTML5 · CSS3 · Zustand · TanStack Query |
-| **Backend** | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Light.svg" alt="" width="22" height="22" /> Node.js &nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Light.svg" alt="" width="22" height="22" /> Express &nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NestJS-Light.svg" alt="" width="22" height="22" /> NestJS<br>Java / Spring Boot · Python / FastAPI |
-| **Data** | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Light.svg" alt="" width="22" height="22" /> PostgreSQL &nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg" alt="" width="22" height="22" /> MySQL &nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redis-Light.svg" alt="" width="22" height="22" /> Redis<br>SQL · Prisma · Spring Data JPA · QueryDSL |
-| **AI** | LangGraph |
-| **Infrastructure** | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" alt="" width="22" height="22" /> Docker &nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Nginx.svg" alt="" width="22" height="22" /> NGINX &nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Ubuntu-Light.svg" alt="" width="22" height="22" /> Ubuntu<br>AWS · GitHub Actions |
-| **Tools** | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="" width="22" height="22" /> Git &nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Light.svg" alt="" width="22" height="22" /> GitHub &nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Notion-Light.svg" alt="" width="22" height="22" /> Notion &nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" alt="" width="22" height="22" /> Discord |
+**Languages**
+
+<p>
+  <img src="./assets/tech-stack/typescript.svg" alt="TypeScript" height="40" />
+  <img src="./assets/tech-stack/javascript.svg" alt="JavaScript" height="40" />
+  <img src="./assets/tech-stack/java.svg" alt="Java" height="40" />
+  <img src="./assets/tech-stack/python.svg" alt="Python" height="40" />
+  <img src="./assets/tech-stack/html5.svg" alt="HTML5" height="40" />
+  <img src="./assets/tech-stack/css3.svg" alt="CSS3" height="40" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="./assets/tech-stack/react.svg" alt="React" height="40" />
+  <img src="./assets/tech-stack/next-js.svg" alt="Next.js" height="40" />
+  <img src="./assets/tech-stack/tailwind-css.svg" alt="Tailwind CSS" height="40" />
+  <img src="./assets/tech-stack/zustand.svg" alt="Zustand" height="40" />
+  <img src="./assets/tech-stack/tanstack-query.svg" alt="TanStack Query" height="40" />
+</p>
+
+**Backend & AI**
+
+<p>
+  <img src="./assets/tech-stack/node-js.svg" alt="Node.js" height="40" />
+  <img src="./assets/tech-stack/express.svg" alt="Express" height="40" />
+  <img src="./assets/tech-stack/nestjs.svg" alt="NestJS" height="40" />
+  <img src="./assets/tech-stack/spring-boot.svg" alt="Spring Boot" height="40" />
+  <img src="./assets/tech-stack/fastapi.svg" alt="FastAPI" height="40" />
+  <img src="./assets/tech-stack/langgraph.svg" alt="LangGraph" height="40" />
+</p>
+
+**Database & Data Access**
+
+<p>
+  <img src="./assets/tech-stack/postgresql.svg" alt="PostgreSQL" height="40" />
+  <img src="./assets/tech-stack/mysql.svg" alt="MySQL" height="40" />
+  <img src="./assets/tech-stack/redis.svg" alt="Redis" height="40" />
+  <img src="./assets/tech-stack/sql.svg" alt="SQL" height="40" />
+  <img src="./assets/tech-stack/prisma.svg" alt="Prisma" height="40" />
+  <img src="./assets/tech-stack/spring-data-jpa.svg" alt="Spring Data JPA" height="40" />
+  <img src="./assets/tech-stack/querydsl.svg" alt="QueryDSL" height="40" />
+</p>
+
+**Infrastructure & CI/CD**
+
+<p>
+  <img src="./assets/tech-stack/docker.svg" alt="Docker" height="40" />
+  <img src="./assets/tech-stack/nginx.svg" alt="NGINX" height="40" />
+  <img src="./assets/tech-stack/ubuntu.svg" alt="Ubuntu" height="40" />
+  <img src="./assets/tech-stack/aws.svg" alt="AWS" height="40" />
+  <img src="./assets/tech-stack/github-actions.svg" alt="GitHub Actions" height="40" />
+</p>
+
+**Tools & Collaboration**
+
+<p>
+  <img src="./assets/tech-stack/git.svg" alt="Git" height="40" />
+  <img src="./assets/tech-stack/github.svg" alt="GitHub" height="40" />
+  <img src="./assets/tech-stack/notion.svg" alt="Notion" height="40" />
+  <img src="./assets/tech-stack/discord.svg" alt="Discord" height="40" />
+</p>
 
 ## Strengths
 
@@ -54,7 +107,7 @@
 </p>
 
 <p align="center">
-  <img src="./metrics.languages.svg" alt="Most used languages based on my commits" width="600" />
+  <img src="./metrics.languages.svg" alt="Most used languages based on my commits" width="480" />
 </p>
 
 ## Portfolio
