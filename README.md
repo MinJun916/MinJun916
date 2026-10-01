@@ -44,7 +44,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MinJun916&show_icons=true&hide_border=true&bg_color=111827&title_color=ffffff&icon_color=5267F7&text_color=E5E7EB&ring_color=2563EB&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinJun916&layout=compact&hide_border=true&bg_color=111827&title_color=ffffff&text_color=E5E7EB&langs_count=8&card_width=320" alt="Top Languages" height="200" />
+  <br />
+  <img src="./metrics.languages.svg" alt="Most used languages based on my commits" width="600" />
 </div>
 
 <hr />
