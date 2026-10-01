@@ -40,7 +40,14 @@ jobs:
           filename: metrics.languages.svg
           base: ""
           config_timezone: Asia/Seoul
-          config_display: large
+          config_display: regular
+          extras_css: |
+            svg { font-size: 16px; color: #24292f; }
+            h2 { font-size: 20px; }
+            h3 { font-size: 18px; }
+            small { font-size: 14px; }
+            .field.language { margin-top: 8px; margin-bottom: 8px; }
+            .row section { flex: 1 1 45%; }
           repositories_affiliations: owner, collaborator, organization_member
           commits_authoring: MinJun916, ed125248@gmail.com
           plugin_languages: "yes"
