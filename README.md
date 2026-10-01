@@ -14,86 +14,15 @@
 
 ## Tech Stack
 
-### Languages
-
-<p>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="TypeScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Light.svg" alt="Java" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Light.svg" alt="Python" width="40" height="40" />
-</p>
-
-TypeScript · JavaScript · Java · Python
-
-### Backend & APIs
-
-<p>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Light.svg" alt="Node.js" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Light.svg" alt="Express" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NestJS-Light.svg" alt="NestJS" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Light.svg" alt="Spring Boot" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/FastAPI.svg" alt="FastAPI" width="40" height="40" />
-</p>
-
-Node.js · Express · NestJS · Spring Boot · FastAPI
-
-**Data access:** SQL · Spring Data JPA · QueryDSL
-
-### Frontend
-
-<p>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Light.svg" alt="React" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Light.svg" alt="Next.js" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Light.svg" alt="Tailwind CSS" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML5" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS3" width="40" height="40" />
-</p>
-
-React · Next.js · Tailwind CSS · HTML5 · CSS3
-
-**State & server data:** Zustand · TanStack Query
-
-### Database & Cache
-
-<p>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Light.svg" alt="PostgreSQL" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg" alt="MySQL" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redis-Light.svg" alt="Redis" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Prisma.svg" alt="Prisma" width="40" height="40" />
-</p>
-
-PostgreSQL · MySQL · Redis · Prisma
-
-### AI & Agents
-
-<p>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&amp;logo=langgraph&amp;logoColor=white" alt="LangGraph" />
-</p>
-
-LangGraph
-
-### Infrastructure & CI/CD
-
-<p>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" alt="Docker" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Nginx.svg" alt="NGINX" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Ubuntu-Light.svg" alt="Ubuntu" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Light.svg" alt="AWS" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GithubActions-Light.svg" alt="GitHub Actions" width="40" height="40" />
-</p>
-
-Docker · NGINX · Ubuntu · AWS · GitHub Actions
-
-### Collaboration
-
-<p>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Light.svg" alt="GitHub" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Notion-Light.svg" alt="Notion" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" alt="Discord" width="40" height="40" />
-</p>
-
-Git · GitHub · Notion · Discord
+| 분야 | 기술 |
+| :--- | :--- |
+| **Languages** | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="" width="22" height="22" /> TypeScript &nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="" width="22" height="22" /> JavaScript &nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Light.svg" alt="" width="22" height="22" /> Java &nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Light.svg" alt="" width="22" height="22" /> Python |
+| **Frontend** | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Light.svg" alt="" width="22" height="22" /> React &nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Light.svg" alt="" width="22" height="22" /> Next.js &nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Light.svg" alt="" width="22" height="22" /> Tailwind CSS<br>HTML5 · CSS3 · Zustand · TanStack Query |
+| **Backend** | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Light.svg" alt="" width="22" height="22" /> Node.js &nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Light.svg" alt="" width="22" height="22" /> Express &nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NestJS-Light.svg" alt="" width="22" height="22" /> NestJS<br>Java / Spring Boot · Python / FastAPI |
+| **Data** | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Light.svg" alt="" width="22" height="22" /> PostgreSQL &nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg" alt="" width="22" height="22" /> MySQL &nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redis-Light.svg" alt="" width="22" height="22" /> Redis<br>SQL · Prisma · Spring Data JPA · QueryDSL |
+| **AI** | LangGraph |
+| **Infrastructure** | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" alt="" width="22" height="22" /> Docker &nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Nginx.svg" alt="" width="22" height="22" /> NGINX &nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Ubuntu-Light.svg" alt="" width="22" height="22" /> Ubuntu<br>AWS · GitHub Actions |
+| **Tools** | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="" width="22" height="22" /> Git &nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Light.svg" alt="" width="22" height="22" /> GitHub &nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Notion-Light.svg" alt="" width="22" height="22" /> Notion &nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" alt="" width="22" height="22" /> Discord |
 
 ## Strengths
 
