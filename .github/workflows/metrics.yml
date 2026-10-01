@@ -25,9 +25,11 @@ jobs:
           GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
         run: gh api repos/team-beatbuddy/backend --jq '{full_name, private, default_branch}'
       - name: Generate indepth language statistics
-        uses: lowlighter/metrics@latest
+        # This source revision authenticates private repository clones.
+        uses: lowlighter/metrics@366f8b9dfe3a59656c67d5dcad9950f59c9bc96d
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          use_prebuilt_image: "no"
           user: MinJun916
           filename: metrics.languages.svg
           base: ""
