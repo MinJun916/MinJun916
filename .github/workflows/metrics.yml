@@ -8,6 +8,8 @@ on:
     branches: [main]
     paths:
       - .github/workflows/metrics.yml
+      - scripts/render-language-metrics.py
+      - scripts/test_render_language_metrics.py
 
 permissions:
   contents: write
@@ -20,6 +22,9 @@ jobs:
   languages:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+      - name: Verify language card renderer
+        run: python3 -m unittest discover -s scripts -p "test_*.py"
       - name: Prepare Metrics image with private clone authentication
         run: |
           mkdir -p "$RUNNER_TEMP/metrics-image"
@@ -37,17 +42,11 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           use_prebuilt_image: "no"
           user: MinJun916
-          filename: metrics.languages.svg
+          filename: metrics.languages.raw.svg
+          output_action: none
           base: ""
           config_timezone: Asia/Seoul
           config_display: regular
-          extras_css: |
-            svg { font-size: 16px; color: #24292f; }
-            h2 { font-size: 20px; }
-            h3 { font-size: 18px; }
-            small { font-size: 14px; }
-            .field.language { margin-top: 8px; margin-bottom: 8px; }
-            .row section { flex: 1 1 45%; }
           repositories_affiliations: owner, collaborator, organization_member
           commits_authoring: MinJun916, ed125248@gmail.com
           plugin_languages: "yes"
@@ -58,3 +57,14 @@ jobs:
           plugin_languages_analysis_timeout: 30
           plugin_languages_analysis_timeout_repositories: 15
           debug: "yes"
+      - name: Render language card without clipping
+        run: python3 scripts/render-language-metrics.py /metrics_renders/metrics.languages.raw.svg metrics.languages.svg
+      - name: Publish language card
+        run: |
+          git add metrics.languages.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Update metrics.languages.svg - [Skip GitHub Action]'
+          git pull --rebase origin main
+          git push origin HEAD:main
