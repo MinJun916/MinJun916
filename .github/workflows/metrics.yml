@@ -20,10 +20,6 @@ jobs:
   languages:
     runs-on: ubuntu-latest
     steps:
-      - name: Verify company repository access with Metrics token
-        env:
-          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
-        run: gh api repos/team-beatbuddy/backend --jq '{full_name, private, default_branch}'
       - name: Prepare Metrics image with private clone authentication
         run: |
           mkdir -p "$RUNNER_TEMP/metrics-image"
@@ -49,9 +45,6 @@ jobs:
           commits_authoring: MinJun916, ed125248@gmail.com
           plugin_languages: "yes"
           plugin_languages_indepth: "yes"
-          plugin_languages_indepth_custom: team-beatbuddy/backend
-          # Analyze this repository once through the explicit entry above.
-          plugin_languages_skipped: team-beatbuddy/backend
           plugin_languages_sections: most-used
           plugin_languages_details: percentage, lines
           plugin_languages_limit: 8
