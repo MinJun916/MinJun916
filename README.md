@@ -21,23 +21,22 @@
   <img src="./assets/tech-stack/javascript.svg" alt="JavaScript" height="40" />
   <img src="./assets/tech-stack/java.svg" alt="Java" height="40" />
   <img src="./assets/tech-stack/python.svg" alt="Python" height="40" />
-  <img src="./assets/tech-stack/html5.svg" alt="HTML5" height="40" />
-  <img src="./assets/tech-stack/css3.svg" alt="CSS3" height="40" />
+  <img src="./assets/tech-stack/sql.svg" alt="SQL" height="40" />
 </p>
 
 **Frontend**
 
 <p>
+  <img src="./assets/tech-stack/html5.svg" alt="HTML5" height="40" />
+  <img src="./assets/tech-stack/css3.svg" alt="CSS3" height="40" />
   <img src="./assets/tech-stack/react.svg" alt="React" height="40" />
-  <img src="./assets/tech-stack/react-native.svg" alt="React Native" height="40" />
-  <img src="./assets/tech-stack/expo.svg" alt="Expo" height="40" />
   <img src="./assets/tech-stack/next-js.svg" alt="Next.js" height="40" />
   <img src="./assets/tech-stack/tailwind-css.svg" alt="Tailwind CSS" height="40" />
   <img src="./assets/tech-stack/zustand.svg" alt="Zustand" height="40" />
   <img src="./assets/tech-stack/tanstack-query.svg" alt="TanStack Query" height="40" />
 </p>
 
-**Backend & AI**
+**Backend**
 
 <p>
   <img src="./assets/tech-stack/node-js.svg" alt="Node.js" height="40" />
@@ -45,7 +44,13 @@
   <img src="./assets/tech-stack/nestjs.svg" alt="NestJS" height="40" />
   <img src="./assets/tech-stack/spring-boot.svg" alt="Spring Boot" height="40" />
   <img src="./assets/tech-stack/fastapi.svg" alt="FastAPI" height="40" />
-  <img src="./assets/tech-stack/langgraph.svg" alt="LangGraph" height="40" />
+</p>
+
+**App**
+
+<p>
+  <img src="./assets/tech-stack/react-native.svg" alt="React Native" height="40" />
+  <img src="./assets/tech-stack/expo.svg" alt="Expo" height="40" />
 </p>
 
 **Database & Data Access**
@@ -54,10 +59,15 @@
   <img src="./assets/tech-stack/postgresql.svg" alt="PostgreSQL" height="40" />
   <img src="./assets/tech-stack/mysql.svg" alt="MySQL" height="40" />
   <img src="./assets/tech-stack/redis.svg" alt="Redis" height="40" />
-  <img src="./assets/tech-stack/sql.svg" alt="SQL" height="40" />
   <img src="./assets/tech-stack/prisma.svg" alt="Prisma" height="40" />
   <img src="./assets/tech-stack/spring-data-jpa.svg" alt="Spring Data JPA" height="40" />
   <img src="./assets/tech-stack/querydsl.svg" alt="QueryDSL" height="40" />
+</p>
+
+**AI**
+
+<p>
+  <img src="./assets/tech-stack/langgraph.svg" alt="LangGraph" height="40" />
 </p>
 
 **Infrastructure & CI/CD**
