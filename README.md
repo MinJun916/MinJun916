@@ -4,7 +4,7 @@
 
 **End-to-End, Full-stack Developer**
 
-[포트폴리오 링크](https://portfolio-six-bice-59.vercel.app/) · [Email](mailto:ed125248@gmail.com)
+[포트폴리오 링크](https://www.minjun916.cloud) · [Email](mailto:ed125248@gmail.com)
 
 </div>
 
@@ -29,6 +29,8 @@
 
 <p>
   <img src="./assets/tech-stack/react.svg" alt="React" height="40" />
+  <img src="./assets/tech-stack/react-native.svg" alt="React Native" height="40" />
+  <img src="./assets/tech-stack/expo.svg" alt="Expo" height="40" />
   <img src="./assets/tech-stack/next-js.svg" alt="Next.js" height="40" />
   <img src="./assets/tech-stack/tailwind-css.svg" alt="Tailwind CSS" height="40" />
   <img src="./assets/tech-stack/zustand.svg" alt="Zustand" height="40" />
@@ -112,7 +114,7 @@
 
 ## Portfolio
 
-🔗 [포트폴리오 링크](https://portfolio-six-bice-59.vercel.app/)
+🔗 [포트폴리오 링크](https://www.minjun916.cloud)
 
 ## Contact
 
