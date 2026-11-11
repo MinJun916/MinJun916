@@ -1,42 +1,42 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="480" viewBox="0 0 480 480" role="img" aria-labelledby="title description">
 <title id="title">Most used languages</title>
-<desc id="description">17 Languages · estimation from 34.2mb of code in 17947 edited files across 3202 commits. Java: 243k lines, 51.84%; TSX: 149k lines, 25.94%; TypeScript: 82.1k lines, 14.62%; JavaScript: 21.9k lines, 3.41%; Python: 15k lines, 2.85%; SCSS: 7.93k lines, 0.63%; CSS: 4.38k lines, 0.53%; HTML: 818 lines, 0.18%</desc>
+<desc id="description">17 Languages · estimation from 34.4mb of code in 18089 edited files across 3223 commits. Java: 245k lines, 51.85%; TSX: 150k lines, 25.87%; TypeScript: 82.5k lines, 14.58%; JavaScript: 21.9k lines, 3.39%; Python: 15.7k lines, 2.99%; SCSS: 7.93k lines, 0.63%; CSS: 4.45k lines, 0.53%; HTML: 818 lines, 0.18%</desc>
 <rect x=".5" y=".5" width="479" height="479" rx="12" fill="#ffffff" stroke="#d1d9e0"/>
 <g font-family="Arial,Helvetica,sans-serif" fill="#1f2328">
 <text x="24" y="36" font-size="22" font-weight="600">Most used languages</text>
-<text x="24" y="62" font-size="12" fill="#59636e">17 Languages · estimation from 34.2mb of code in 17947 edited</text>
-<text x="24" y="80" font-size="12" fill="#59636e">files across 3202 commits</text>
+<text x="24" y="62" font-size="12" fill="#59636e">17 Languages · estimation from 34.4mb of code in 18089 edited</text>
+<text x="24" y="80" font-size="12" fill="#59636e">files across 3223 commits</text>
 <g font-size="12" fill="#59636e"><text x="24" y="120">Language</text><text x="362" y="120" text-anchor="end">Lines</text><text x="456" y="120" text-anchor="end">Share</text></g>
 <circle cx="28" cy="143" r="5" fill="#b07219"/>
 <text x="42" y="148" font-size="17">Java</text>
-<text x="362" y="148" font-size="15" text-anchor="end">243k lines</text>
-<text x="456" y="148" font-size="15" text-anchor="end">51.84%</text>
+<text x="362" y="148" font-size="15" text-anchor="end">245k lines</text>
+<text x="456" y="148" font-size="15" text-anchor="end">51.85%</text>
 <rect x="42" y="157" width="414" height="4" rx="2" fill="#eaeef2"/>
-<rect x="42" y="157" width="214.618" height="4" rx="2" fill="#b07219"/>
+<rect x="42" y="157" width="214.659" height="4" rx="2" fill="#b07219"/>
 <circle cx="28" cy="183" r="5" fill="#3178c6"/>
 <text x="42" y="188" font-size="17">TSX</text>
-<text x="362" y="188" font-size="15" text-anchor="end">149k lines</text>
-<text x="456" y="188" font-size="15" text-anchor="end">25.94%</text>
+<text x="362" y="188" font-size="15" text-anchor="end">150k lines</text>
+<text x="456" y="188" font-size="15" text-anchor="end">25.87%</text>
 <rect x="42" y="197" width="414" height="4" rx="2" fill="#eaeef2"/>
-<rect x="42" y="197" width="107.392" height="4" rx="2" fill="#3178c6"/>
+<rect x="42" y="197" width="107.102" height="4" rx="2" fill="#3178c6"/>
 <circle cx="28" cy="223" r="5" fill="#3178c6"/>
 <text x="42" y="228" font-size="17">TypeScript</text>
-<text x="362" y="228" font-size="15" text-anchor="end">82.1k lines</text>
-<text x="456" y="228" font-size="15" text-anchor="end">14.62%</text>
+<text x="362" y="228" font-size="15" text-anchor="end">82.5k lines</text>
+<text x="456" y="228" font-size="15" text-anchor="end">14.58%</text>
 <rect x="42" y="237" width="414" height="4" rx="2" fill="#eaeef2"/>
-<rect x="42" y="237" width="60.527" height="4" rx="2" fill="#3178c6"/>
+<rect x="42" y="237" width="60.361" height="4" rx="2" fill="#3178c6"/>
 <circle cx="28" cy="263" r="5" fill="#f1e05a"/>
 <text x="42" y="268" font-size="17">JavaScript</text>
 <text x="362" y="268" font-size="15" text-anchor="end">21.9k lines</text>
-<text x="456" y="268" font-size="15" text-anchor="end">3.41%</text>
+<text x="456" y="268" font-size="15" text-anchor="end">3.39%</text>
 <rect x="42" y="277" width="414" height="4" rx="2" fill="#eaeef2"/>
-<rect x="42" y="277" width="14.117" height="4" rx="2" fill="#f1e05a"/>
+<rect x="42" y="277" width="14.035" height="4" rx="2" fill="#f1e05a"/>
 <circle cx="28" cy="303" r="5" fill="#3572A5"/>
 <text x="42" y="308" font-size="17">Python</text>
-<text x="362" y="308" font-size="15" text-anchor="end">15k lines</text>
-<text x="456" y="308" font-size="15" text-anchor="end">2.85%</text>
+<text x="362" y="308" font-size="15" text-anchor="end">15.7k lines</text>
+<text x="456" y="308" font-size="15" text-anchor="end">2.99%</text>
 <rect x="42" y="317" width="414" height="4" rx="2" fill="#eaeef2"/>
-<rect x="42" y="317" width="11.799" height="4" rx="2" fill="#3572A5"/>
+<rect x="42" y="317" width="12.379" height="4" rx="2" fill="#3572A5"/>
 <circle cx="28" cy="343" r="5" fill="#c6538c"/>
 <text x="42" y="348" font-size="17">SCSS</text>
 <text x="362" y="348" font-size="15" text-anchor="end">7.93k lines</text>
@@ -45,7 +45,7 @@
 <rect x="42" y="357" width="2.608" height="4" rx="2" fill="#c6538c"/>
 <circle cx="28" cy="383" r="5" fill="#663399"/>
 <text x="42" y="388" font-size="17">CSS</text>
-<text x="362" y="388" font-size="15" text-anchor="end">4.38k lines</text>
+<text x="362" y="388" font-size="15" text-anchor="end">4.45k lines</text>
 <text x="456" y="388" font-size="15" text-anchor="end">0.53%</text>
 <rect x="42" y="397" width="414" height="4" rx="2" fill="#eaeef2"/>
 <rect x="42" y="397" width="2.194" height="4" rx="2" fill="#663399"/>
